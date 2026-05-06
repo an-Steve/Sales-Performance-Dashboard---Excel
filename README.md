@@ -3,7 +3,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📝 Description
+## →  Description
 Ce projet consiste en un tableau de bord automatisé généré via Python (`openpyxl`) permettant d'analyser les performances commerciales d'une entreprise sur le premier semestre 2025. Il offre une interface visuelle "Premium" pour suivre les indicateurs clés (KPIs) et comparer les résultats réels aux objectifs fixés.
 
 <img width="1481" height="672" alt="image" src="https://github.com/user-attachments/assets/67d9ba08-6c12-4390-bbd9-d464abbb062c" />
